@@ -5,3 +5,4 @@
 #Avoid traking .idea folder
 .idea
 mvnw*
+target
